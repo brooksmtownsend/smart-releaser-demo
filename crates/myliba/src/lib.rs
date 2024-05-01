@@ -1,5 +1,5 @@
-pub fn add(left: usize, right: usize) -> usize {
-    left + right
+pub fn add(left: usize, right: usize, rightright: usize) -> usize {
+    left + right + rightright
 }
 
 #[cfg(test)]
