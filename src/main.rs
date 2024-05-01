@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world, but 0.1.1 for real!");
+    println!("Hello, world, but 0.2.0 for real!");
 }
