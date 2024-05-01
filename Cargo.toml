@@ -9,5 +9,11 @@ description = "binary for testing of smart-release"
 members = ["crates/myliba", "crates/mylibb", "crates/mylibc"]
 
 [dependencies]
+brooksmtownsend-smartrelease-demo-myliba = { workspace = true }
+brooksmtownsend-smartrelease-demo-mylibb = { workspace = true }
+
+[workspace.dependencies]
+
 brooksmtownsend-smartrelease-demo-myliba = { version = "^0.1.0", path = "./crates/myliba" }
 brooksmtownsend-smartrelease-demo-mylibb = { version = "^0.1.0", path = "./crates/mylibb" }
+brooksmtownsend-smartrelease-demo-mylibc = { version = "^0.1.0", path = "./crates/mylibc" }
