@@ -7,5 +7,5 @@ edition = "2021"
 members = ["crates/myliba", "crates/mylibb", "crates/mylibc"]
 
 [dependencies]
-brooksmtownsend-smartrelease-demo-myliba = { version = "0.1.0", path = "./crates/myliba" }
-brooksmtownsend-smartrelease-demo-mylibb = { version = "0.1.0", path = "./crates/mylibb" }
+brooksmtownsend-smartrelease-demo-myliba = { version = "^0.1.0", path = "./crates/myliba" }
+brooksmtownsend-smartrelease-demo-mylibb = { version = "^0.1.0", path = "./crates/mylibb" }
