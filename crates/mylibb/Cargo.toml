@@ -1,6 +1,6 @@
 [package]
 name = "brooksmtownsend-smartrelease-demo-mylibb"
-version = "0.1.1"
+version = "0.2.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "library b for a testing of smart-release"

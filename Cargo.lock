@@ -4,7 +4,7 @@ version = 3
 
 [[package]]
 name = "brooksmtownsend-smartrelease-demo-mybin"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "brooksmtownsend-smartrelease-demo-myliba",
  "brooksmtownsend-smartrelease-demo-mylibb",
@@ -12,18 +12,18 @@ dependencies = [
 
 [[package]]
 name = "brooksmtownsend-smartrelease-demo-myliba"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "brooksmtownsend-smartrelease-demo-mylibb",
 ]
 
 [[package]]
 name = "brooksmtownsend-smartrelease-demo-mylibb"
-version = "0.1.1"
+version = "0.2.0"
 dependencies = [
  "brooksmtownsend-smartrelease-demo-mylibc",
 ]
 
 [[package]]
 name = "brooksmtownsend-smartrelease-demo-mylibc"
-version = "0.1.1"
+version = "0.2.0"
